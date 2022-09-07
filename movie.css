@@ -1,0 +1,53 @@
+#heading
+{
+    text-align:center ;
+}
+
+#leftmain
+{
+    left: 20%;
+    right:20%; 
+    position: relative;
+}
+
+#rightmain
+{
+    float:left;
+    width:20%;
+}
+
+#leftinner
+{
+    float:left ;
+    width:40.95%;
+}
+
+#innerheading
+{
+    background-color: green;
+    height:85px;
+    margin-bottom: 15px;
+}
+
+#headerimg
+{
+    float:left;
+}
+
+#divLeft
+{
+    float:left;
+    width:50%;
+}
+
+#divRight
+{
+    float:right;
+    width: 50%;
+}
+
+body
+{
+    background-image: url(images/background.png);
+    border-radius: 10%;
+}
